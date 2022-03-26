@@ -6,8 +6,8 @@
 **dayahh/dayahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 This is what I've been getting up to lately:
 
-- :eyes: **I’m currently working on** two video game projects!
--  🌱 **I’m currently learning about** game development through AR (augmented reality) and VR (virtual reality) technology. Thank you Gameheads.
+- :eyes: **I’m currently working on** student level projects for school!
+-  🌱 **I’m currently learning about** game development through Gameheads.
 - :video_game: **My latest completed project** is a 2D snack stealth game called Late Night Snackin'. Check out the demo on Gameheads' <a href="https://gameheads.itch.io/late-night-snackin" target="_blank">itch.io page</a>.
 - 🤔 **I’m looking for help with** creating marker-based AR applications.
 - :signal_strength: **Feel free to connect with me** on LinkedIn, link information is in the bio.
