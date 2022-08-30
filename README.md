@@ -6,8 +6,10 @@
 **dayahh/dayahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 This is what I've been getting up to lately:
 
-- :eyes: **I’m currently working on** student level projects for school!
--  🌱 **I’m currently learning about** game development through Gameheads.
+
+- :eyes: **I’m currently working on** a productivity mobile app game called <a href="https://twitter.com/PacaPomo
+" target="_blank">PacaPomo</a>! I'm serving as this team's marketing lead and 1 of 2 programmers!
+-  🌱 **I’m currently learning about** game development through a program called <a href="https://gameheadsoakland.org/" target="_blank">Gameheads</a>.
 - :video_game: **My latest completed project** is a 2D snack stealth game called Late Night Snackin'. Check out the demo on Gameheads' <a href="https://gameheads.itch.io/late-night-snackin" target="_blank">itch.io page</a>.
 - 🤔 **I’m looking for help with** creating marker-based AR applications.
 - :signal_strength: **Feel free to connect with me** on LinkedIn, link information is in the bio.
