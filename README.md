@@ -7,8 +7,7 @@
 This is what I've been getting up to lately:
 
 
-- :eyes: **I’m recently finished working on** a productivity mobile app game called <a href="https://pacapomo.itch.io/pacapomo
-" target="_blank">PacaPomo</a>! I worked as a gameplay engineer!
+- :eyes: **I’m currently working on** a mascot horror game. I work as the director and a gameplay engineer!
 -  🌱 **I’m currently learning about** game development through a program called <a href="https://gameheadsoakland.org/" target="_blank">Gameheads</a>.
 - :video_game: **My latest completed project** is a 2D snack stealth game called Late Night Snackin'. Check out the demo on Gameheads' <a href="https://gameheads.itch.io/late-night-snackin" target="_blank">itch.io page</a>.
 - 🤔 **I’m looking for help with** building smaller video game projects.
